@@ -1,1 +1,1 @@
-# my netflix proect
+# my netflix project
